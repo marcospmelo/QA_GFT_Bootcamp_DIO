@@ -67,10 +67,9 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
 
 <h2>✨ ️Redes Socias</h2>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCqchrwxLd023IrA8KlCpH9g">YouTube</a> ▪️
-<a href="https://www.instagram.com/estudant.i/">Instagram 1</a> ▪️
-<a href="https://www.instagram.com/camimi_la/">Instagram 2</a> ▪️
-<a href="https://www.linkedin.com/in/cami-la/">LinkedIn</a>
+<a href="https://www.youtube.com/@florestatech">YouTube</a> ▪️
+<a href="https://www.instagram.com/marcopmelo/">Instagram</a> ▪️
+<a href="https://www.linkedin.com/in/marcopmelo/">LinkedIn</a>
 </p>
 
 
